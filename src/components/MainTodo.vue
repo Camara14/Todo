@@ -2,7 +2,7 @@
   <div>
     <section class="todoapp" v-cloak>
       <header class="header">
-        <h1>todos Keme Keita</h1>
+        <h1>todos Ayo</h1>
         <input
           class="new-todo"
           autofocus
