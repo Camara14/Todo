@@ -2,7 +2,7 @@
   <div>
     <section class="todoapp" v-cloak>
       <header class="header">
-        <h1>todos Ayo</h1>
+        <h1>Fatim Stell </h1>
         <input
           class="new-todo"
           autofocus
